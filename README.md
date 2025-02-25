@@ -14,9 +14,9 @@ Money Manager is a Flutter-based mobile application designed to help users track
 
 - **Flutter** - Frontend framework
 - **Dart** - Programming language
-- **Provider** - State management
+<!-- - **Provider** - State management
 - **Hive / SQLite** - Local database storage
-- **Charts_flutter** - Data visualization
+- **Charts_flutter** - Data visualization -->
 
 ## Installation
 
