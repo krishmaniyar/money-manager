@@ -39,9 +39,9 @@ Money Manager is a Flutter-based mobile application designed to help users track
 
 ## Screenshots
 
-![Home Screen](assets/screenshots/home.png)
-![Add Transaction](assets/screenshots/add_transaction.png)
-![Expense Chart](assets/screenshots/expense_chart.png)
+![Home Screen](screenshots/home_page.png)
+![Add Transaction](screenshots/add_trans.png)
+![Expense Chart](screenshots/account_page.png)
 
 ## Contributing
 
